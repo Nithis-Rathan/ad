@@ -1,19 +1,19 @@
 {
   "default": {
     "default_ad": {
-      "img_url": "https://southeastocean.com/hospital-tocken-system/ad/assets/payment.webp",
+      "img_url": "https://i.ibb.co/fGqz8GcW/payment.webp",
       "click_url": "mailto:sales@southeastocean.com"
     }
   },
   "India": {
     "southeastocen1": {
-      "img_url": "https://southeastocean.com/hospital-tocken-system/ad/assets/posad.webp",
+      "img_url": "https://i.ibb.co/ZRWwxGbg/posad.webp",
       "click_url": "https://southeastocean.com/software/ocean-pos/oceanpos",
       "start_date": "06-06-2026",
       "end_date": "06-07-2026"
     },
     "southeastocen2": {
-      "img_url": "https://southeastocean.com/hospital-tocken-system/ad/assets/pos2.webp",
+      "img_url": "https://i.ibb.co/RpM8HDXF/pos2.webp",
       "click_url": "https://southeastocean.com/software/ocean-pos/oceanpos",
       "start_date": "06-06-2026",
       "end_date": "06-07-2026"
