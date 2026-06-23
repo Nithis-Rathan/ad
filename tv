@@ -1,0 +1,22 @@
+{
+  "India": {
+    "southeastocen1": {
+      "img_url": "https://i.ibb.co/206qhVQw/wewlet-s-work-out.png",
+      "click_url": "https://southeastocean.com/software/ocean-pos/oceanpos",
+      "start_date": "06-06-2026",
+      "end_date": "06-07-2026"
+    },
+    "southeastocen2": {
+      "img_url": "https://i.ibb.co/Qv5GttVh/ewferfelet-s-work-out.png",
+      "click_url": "https://southeastocean.com/software/ocean-pos/oceanpos",
+      "start_date": "06-06-2026",
+      "end_date": "06-07-2026"
+    },
+    "southeastocen3": {
+      "img_url": "https://i.ibb.co/cc6nTgrD/fwlet-s-work-out.png",
+      "click_url": "https://southeastocean.com/software/ocean-pos/oceanpos",
+      "start_date": "06-06-2026",
+      "end_date": "06-07-2026"
+    }
+  }
+}
